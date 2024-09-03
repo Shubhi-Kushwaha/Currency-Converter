@@ -6,14 +6,13 @@ Overview:
 This web application allows users to convert currencies in real-time, providing up-to-date exchange rates and visual feedback through flags. It combines HTML, CSS, and JavaScript to create a user-friendly tool for managing currency conversions.
 
 Key Features:
-  * Dynamic Currency Dropdowns
+ 1. Dynamic Currency Dropdowns
   * Users can select currencies from dropdown menus.
   * Automatic flag updates based on selected currencies for better visual representation.
-    
-Real-Time Exchange Rates:
+ 2. Real-Time Exchange Rates:
   * Fetches live exchange rates from an API.
   * Converts the entered amount to the selected target currency.
-  * User-Friendly Interface:
+ 3. User-Friendly Interface:
   * Clean and intuitive design.
   * Displays the conversion result in an easy-to-read format.
 Technical Details:
