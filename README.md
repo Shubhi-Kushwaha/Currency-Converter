@@ -44,6 +44,7 @@ const updateExchangeRate = async() => {
     let finalAmount = amtVal * rate;
     msg.innerText = `${amtVal} ${fromCurr.value} = ${finalAmount} ${toCurr.value}`;
 }
+
 Challenges Faced:
   * Ensuring the currency data updates in real-time with accurate rates.
   * Handling user input and dynamically updating the UI based on selections.
